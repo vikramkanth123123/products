@@ -42,6 +42,7 @@
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<http.port>8081</http.port>
+							<env>de</env>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
